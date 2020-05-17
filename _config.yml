@@ -2,10 +2,10 @@
 title: Nacho González
 description: >-
   Escribo sobre gestión de producto, diseño y mi propia experiencia como forma de documentar las cosas que aprendo.
-lang: es-S
+lang: es-ES
 timezone: Europe/Madrid
-image: assets/img/nchgnzlz.jpg.jpg # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/mahendrata.now.sh
+image: assets/img/nchgnzlz.jpg # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/nchgn/nachogonzalez
 mode: light # default theme "dark" | "light"
 
 # Profile settings
@@ -19,8 +19,8 @@ author:
   avatar: /assets/img/avatar.svg
 
 # Url settings
-url: "https://klise.now.sh"
-baseurl:
+url:
+baseurl: "/nachogonzalez"
 permalink: /:title/
 google_analytics:
 fb_appid:
