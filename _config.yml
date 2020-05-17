@@ -20,7 +20,7 @@ author:
 
 # Url settings
 url:
-baseurl: "/nachogonzalez"
+baseurl: 
 permalink: /:title/
 google_analytics:
 fb_appid:
