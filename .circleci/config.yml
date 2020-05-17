@@ -1,0 +1,25 @@
+version: 2
+jobs:
+  generate_digest:
+    docker:
+      - image: circleci/python:3.6.4
+    steps:
+      - checkout
+      - run:
+          ./digest.sh
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - generate_digest
+  nightly:
+    triggers:
+      - schedule:
+          cron: "0 0 * * 0"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - generate_digest
