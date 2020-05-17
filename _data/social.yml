@@ -1,0 +1,23 @@
+email:
+  id: 'gonzalez.sanchez@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  src-icon: /assets/icons/icon-social-email.svg
+
+linkedin:
+  id: 'nachogonzalez'
+  href: 'https://www.linkedin.com/in/'
+  title: 'Linkedin'
+  src-icon: /assets/icons/icon-social-linkedin.svg
+
+twitter:
+  id: 'naxogon'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  src-icon: /assets/icons/icon-social-twitter.svg
+
+github:
+  id: 'nchgn'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  src-icon: '/assets/icons/icon-social-github.svg'
