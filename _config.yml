@@ -3,7 +3,7 @@ title: Nacho González
 description: >-
   Escribo sobre gestión de producto, diseño y mi propia experiencia como forma de documentar las cosas que aprendo.
 lang: es-ES
-timezone: Europe/Madrid
+timezone: Europe/Paris
 image: assets/img/nchgnzlz.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/nchgn/nachogonzalez
 mode: light # default theme "dark" | "light"
@@ -19,8 +19,8 @@ author:
   avatar: /assets/img/avatar.svg
 
 # Url settings
-url:
-baseurl: 
+url: "nachogonzalez/"
+baseurl: "https://nchgn.github.io/"
 permalink: /:title/
 google_analytics:
 fb_appid:
