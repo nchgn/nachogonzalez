@@ -19,7 +19,7 @@ author:
   avatar: /assets/img/avatar.svg
 
 # Url settings
-url:
+url: "www.nachogonzalez.me"
 baseurl: "/nachogonzalez"
 permalink: /:title/
 google_analytics:
