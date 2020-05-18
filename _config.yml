@@ -19,8 +19,8 @@ author:
   avatar: /assets/img/avatar.svg
 
 # Url settings
-url: "nachogonzalez/"
-baseurl: "https://nchgn.github.io/"
+url: "nachogonzalez.me"
+baseurl: 
 permalink: /:title/
 google_analytics:
 fb_appid:
