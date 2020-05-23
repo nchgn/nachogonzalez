@@ -2,9 +2,9 @@
   url: /
   external: false
 
-# - title: Sobre mi
-#   url: /sobre-mi/
-#   external: false
+- title: Sobre mi
+  url: /sobre-mi/
+  external: false
 
 # Example:
 # - title: github
