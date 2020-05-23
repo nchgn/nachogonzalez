@@ -71,7 +71,6 @@ exclude:
   - CHANGELOG.md
   - README.md
   - node_modules
-  - tags.md
 
 # Plugins
 plugins:
