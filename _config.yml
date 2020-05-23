@@ -4,7 +4,7 @@ description: >-
   Escribo sobre gestión de producto, diseño y mi propia experiencia como forma de documentar las cosas que aprendo.
 lang: es-ES
 timezone: Europe/Paris
-image: assets/img/nchgnzlz.jpg # This image used for Open Graph more info https://ogp.me/
+image: assets/img/nachogonzalez.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/nchgn/nachogonzalez
 mode: light # default theme "dark" | "light"
 
@@ -19,7 +19,7 @@ author:
   avatar: /assets/img/avatar.svg
 
 # Url settings
-url: http://nachogonzalez.me/
+url: http://nachogonzalez.me
 baseurl:
 permalink: /:title/
 google_analytics:
