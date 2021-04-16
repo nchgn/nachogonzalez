@@ -4,7 +4,7 @@ permalink: /sobre-mi/
 layout: page
 excerpt: >-
   Hola, me llamo Nacho, me dedico a crear productos digitales que aspiren a
-  cambiar la vida de las personas que lo usan.
+  cambiar la vida de las personas que los usan.
 comments: false
 ---
 
