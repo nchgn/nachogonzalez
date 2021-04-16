@@ -14,4 +14,4 @@ Me dedico a crear productos digitales, ~~siempre~~ centrados en resolver la nece
 
 Creo que he tenido suerte, he conseguido estar en el lugar adecuado en el momento oportuno un par de veces, y gracias a eso hoy estoy aquí; a lo largo de este camino me ha dado tiempo a cansarme de trabajar en publicidad, fundar y cerrar un estudio de diseño y trabajar en un par de startups, donde he conocido grandes profesionales de los que sigo aprendiendo.
 
-Creo mucho más en el esfuerzo que en las capaciades innatas, en bajar al barro para entender de verdad los problemas y en las cosas sencillas y simples. Suelo andar o tener algo en las manos cuando hablo, recurro a una pizarra para que me ayude a estructurar las ideas, y compro las camisetas azules en packs de cinco.
+Creo mucho más en el esfuerzo que en las capacidades innatas, en bajar al barro para entender de verdad los problemas y en las cosas sencillas y simples. Suelo andar o tener algo en las manos cuando hablo, recurro a una pizarra para que me ayude a estructurar las ideas, y compro las camisetas azules en packs de cinco.
